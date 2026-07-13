@@ -34,6 +34,9 @@ MARK_PATTERN = re.compile(r"CustomRoles\.(\w+)\s*=>\s*\"([^\"]*)\"")
 def convert_color_tags(text):
     text = COLOR_TAG_PATTERN.sub(r"${\\textsf{\\color{#\1}\2}}$", text)
     text = text.replace("</color>", "")  # drop any unmatched stray closing tags
+    # GitHub's math rendering doesn't reliably recognize adjacent "$...$,$...$" spans
+    # with nothing between them; add a space after the comma to separate them.
+    text = text.replace("$,$", "$, $")
     return text
 
 
