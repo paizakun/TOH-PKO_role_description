@@ -1308,8 +1308,8 @@ ${\textsf{\color{#8b6d61}愚か者}}$とのコンビネーション役職。
 グレーではなく白,黒で表示するように設定で変更が可能。
 白,黒表示では元々のスキンの色で分けられており、以下の通りである。
 
-${\textsf{\color{#ee54bb}ピンク}}$,${\textsf{\color{#f07d0d}オレンジ}}$,${\textsf{\color{#f6f657}イエロー}}$,${\textsf{\color{#d7e1f1}ホワイト}}$,${\textsf{\color{#38ffdd}シアン}}$,${\textsf{\color{#50f039}ライム}}$,${\textsf{\color{#ecc0d3}ローズ}}$,${\textsf{\color{#f0e7a8}バナナ}}$,${\textsf{\color{#d76464}コーラル}}$→白
-${\textsf{\color{#c61111}レッド}}$,${\textsf{\color{#132ed2}ブルー}}$,${\textsf{\color{#11802d}グリーン}}$,${\textsf{\color{#3f474e}ブラック}}$,${\textsf{\color{#6b2fbc}パープル}}$,${\textsf{\color{#71491e}ブラウン}}$,${\textsf{\color{#5f1d2e}マルーン}}$,${\textsf{\color{#758593}グレー}}$,${\textsf{\color{#918877}タン}}$→黒
+${\textsf{\color{#ee54bb}ピンク}}$, ${\textsf{\color{#f07d0d}オレンジ}}$, ${\textsf{\color{#f6f657}イエロー}}$, ${\textsf{\color{#d7e1f1}ホワイト}}$, ${\textsf{\color{#38ffdd}シアン}}$, ${\textsf{\color{#50f039}ライム}}$, ${\textsf{\color{#ecc0d3}ローズ}}$, ${\textsf{\color{#f0e7a8}バナナ}}$, ${\textsf{\color{#d76464}コーラル}}$→白
+${\textsf{\color{#c61111}レッド}}$, ${\textsf{\color{#132ed2}ブルー}}$, ${\textsf{\color{#11802d}グリーン}}$, ${\textsf{\color{#3f474e}ブラック}}$, ${\textsf{\color{#6b2fbc}パープル}}$, ${\textsf{\color{#71491e}ブラウン}}$, ${\textsf{\color{#5f1d2e}マルーン}}$, ${\textsf{\color{#758593}グレー}}$, ${\textsf{\color{#918877}タン}}$→黒
 
 ## ${\color{#00b4eb}\textsf{ジャッカルドール}}$
 
