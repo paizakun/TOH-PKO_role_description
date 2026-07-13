@@ -30,13 +30,15 @@ COLOR_TAG_PATTERN = re.compile(r"<(?:color=)?#([0-9A-Fa-f]{6})>(.*?)</color>")
 
 MARK_PATTERN = re.compile(r"CustomRoles\.(\w+)\s*=>\s*\"([^\"]*)\"")
 
+# GitHub's math rendering doesn't reliably recognize a "$" that's glued directly to
+# preceding text; require a half-width space (or start of line) right before every "$".
+DOLLAR_NEEDS_SPACE_PATTERN = re.compile(r"(?<=[^ \n])\$")
+
 
 def convert_color_tags(text):
     text = COLOR_TAG_PATTERN.sub(r"${\\textsf{\\color{#\1}\2}}$", text)
     text = text.replace("</color>", "")  # drop any unmatched stray closing tags
-    # GitHub's math rendering doesn't reliably recognize adjacent "$...$,$...$" spans
-    # with nothing between them; add a space after the comma to separate them.
-    text = text.replace("$,$", "$, $")
+    text = DOLLAR_NEEDS_SPACE_PATTERN.sub(" $", text)
     return text
 
 
