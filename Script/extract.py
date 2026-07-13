@@ -2,7 +2,7 @@ import csv
 import json
 import re
 
-CSV_PATH = r"C:\My Works\Games\Among us\TownOfHost-Pko\Resources\string.csv"
+CSV_PATH = "../../TownOfHost-Pko/Resources/string.csv"
 OUTPUT_PATH = "role_descriptions.json"
 
 # a section tag is a single "#" (not "##") followed by either a space + text
