@@ -1,7 +1,7 @@
 import json
 import re
 
-ADDONINFO_PATH = "Addoninfo.cs"
+ADDONINFO_PATH = r"C:\My Works\Games\Among us\TownOfHost-Pko\Roles\AddOns\Addoninfo.cs"
 OUTPUT_PATH = "role_color.json"
 
 COLOR_DICT_PATTERN = re.compile(r"\{\s*CustomRoles\.(\w+)\s*,\s*\"(#[0-9A-Fa-f]{6})\"\s*\}")

@@ -1,5 +1,5 @@
 INFO: role_descriptions.json を読み込み: 役職名/タグ/説明文の一覧として使用 (main)
-INFO: Addoninfo.cs を読み込み: 属性マーク(記号)の抽出に使用 (MARK_PATTERN)
+INFO: C:\My Works\Games\Among us\TownOfHost-Pko\Roles\AddOns\Addoninfo.cs を読み込み: 属性マーク(記号)の抽出に使用 (MARK_PATTERN)
 INFO: role_color.json を読み込み: Addon/属性役職の色として使用 (colors)
 INFO: role_source_color.json を読み込み: 役職本体の色として使用、colorsより優先 (colors)
 WARNING: 色が取得できませんでした: EvilTrapper (イビルトラッパー)
