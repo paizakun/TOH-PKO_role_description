@@ -2,7 +2,7 @@ import json
 import re
 from pathlib import Path
 
-PROJECT_DIR = Path(r"C:\My Works\Games\Among us\TownOfHost-Pko")
+PROJECT_DIR = Path("../../TownOfHost-Pko")
 OUTPUT_PATH = "role_source_color.json"
 
 CALL_START_PATTERN = re.compile(r"SimpleRoleInfo\.(Create|CreateForVanilla)\s*\(")
