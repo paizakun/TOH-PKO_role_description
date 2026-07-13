@@ -1,0 +1,373 @@
+ソースで定義済み (268件)
+- Abuser
+- Alien
+- AlienHijack
+- AllArounder
+- Altair
+- Amateras
+- AmateurTeller
+- Amnesiac
+- Analyzer
+- Android
+- AntiReporter
+- Apprentice
+- Archer
+- Arsonist
+- Assassin
+- Autocrat
+- Bait
+- BakeCat
+- Bakery
+- Balancer
+- Ballooner
+- Banker
+- BatGirl
+- BeginnerImpostor
+- BlackCat
+- Bomber
+- BorderKiller
+- BountyHunter
+- Braid
+- Cakeshop
+- Camouflager
+- CandleLighter
+- Chameleon
+- CharismaStar
+- Chaser
+- Chatter
+- Chef
+- Comebacker
+- Conjurer
+- ConnectSaver
+- CountKiller
+- Crewmate
+- Cupid
+- CurseMaker
+- Curser
+- Decrescendo
+- Detective
+- Dictator
+- Doctor
+- DoppelGanger
+- DoubleKiller
+- Driver
+- Duelist
+- DummySpawner
+- EarnestWolf
+- Eater
+- Efficient
+- Egoist
+- Engineer
+- Eraser
+- EvilAddoer
+- EvilBlender
+- EvilGuesser
+- EvilHacker
+- EvilLinker
+- EvilMaker
+- EvilMoving
+- EvilSanta
+- EvilSatellite
+- EvilStandMaster
+- EvilTeller
+- EvilTracker
+- Evilgambler
+- Evolver
+- Executioner
+- Express
+- FireWorks
+- Fool
+- FortuneTeller
+- Fortuner
+- Fox
+- Freeter
+- Gang
+- Gasp
+- God
+- GrimReaper
+- GuardMaster
+- HadouHo
+- HappyJester
+- Hitchhiker
+- Impostor
+- InSender
+- Insider
+- Inspector
+- Jackal
+- JackalAlien
+- JackalHadouHo
+- JackalMafia
+- JackalSeer
+- JackalWolf
+- Jackaldoll
+- Jailer
+- Jester
+- Jumper
+- King
+- Lawyer
+- Lighter
+- Limiter
+- LoversBreaker
+- MMArcher
+- MadAvenger
+- MadBait
+- MadBetrayer
+- MadChanger
+- MadGuardian
+- MadHacker
+- MadJester
+- MadReduced
+- MadSheriff
+- MadSnitch
+- MadSuicide
+- MadTeller
+- MadTracker
+- MadWorker
+- Madmate
+- Madonna
+- Mafia
+- MagicalGirl
+- Magician
+- Mare
+- MassMedia
+- MassMurder
+- Mayor
+- Medium
+- MeetingSheriff
+- Merlin
+- Milkman
+- Minimalist
+- Missioneer
+- Moira
+- Mole
+- Monika
+- Monochromer
+- Moving
+- NekoKabocha
+- NiceAddoer
+- NiceEraser
+- NiceGuesser
+- NiceLinker
+- NiceLogger
+- NiceNekomata
+- NiceRedRidingHood
+- NiceTeleporter
+- NiceTrapper
+- NiceWorkaholic
+- Nimrod
+- Noisemaker
+- Notifier
+- Nue
+- Oblivion
+- Observer
+- Ogre
+- Onmyoji
+- Opportunist
+- PavlovDog
+- PavlovDogImprint
+- PavlovOwner
+- Penguin
+- Phantom
+- PhantomThief
+- Pirate
+- PlagueDoctor
+- PoisonedBakery
+- PokerFace
+- Police
+- PonkotuTeller
+- ProBowler
+- ProgressKiller
+- Psychic
+- Pukupuku
+- Puppeteer
+- Pursuer
+- QuickKiller
+- Rabbit
+- Reloader
+- Remotekiller
+- Reverser
+- Rocket
+- SabotageMaster
+- Sage
+- Samurai
+- Santa
+- SantaClaus
+- Satellite
+- SatsumatoImo
+- SatsumatoImoC
+- SatsumatoImoM
+- SchrodingerCat
+- Scientist
+- Scratcher
+- Seer
+- SelfBomber
+- SerialKiller
+- ShapeKiller
+- ShapeMaster
+- Shapeshifter
+- Sheriff
+- SheriffHadouHo
+- Shikigami
+- ShrineMaiden
+- Shyboy
+- Slugger
+- SmokeMaker
+- Sniper
+- Snitch
+- Snowman
+- SpeedBooster
+- SpeedStar
+- Spelunker
+- Staff
+- Stand
+- StandMaster
+- Stealth
+- Stolener
+- Strawdoll
+- Suicider
+- SuspiciousTeller
+- SwitchSheriff
+- Swooper
+- Tairou
+- Tama
+- TaskStar
+- TeleportKiller
+- Teleporter
+- Terrorist
+- TheFirstLittlePig
+- TheSecondLittlePig
+- TheThirdLittlePig
+- TimeManager
+- TimeSleeper
+- TimeThief
+- ToiletFan
+- Tracker
+- Trapper
+- Tuna
+- Turncoat
+- UltraStar
+- UnFortuner
+- Vampire
+- Vega
+- VentBeginner
+- VentHunter
+- VentMaster
+- VentOpener
+- Ventoman
+- Victim
+- VillageChief
+- Villain
+- Viper
+- Vulture
+- Walker
+- Walkure
+- Warlock
+- WhiteHacker
+- Witch
+- WolfBoy
+- Workaholic
+- Zombie
+
+ソースに定義が見つからなかった (102件)
+- Absorb (アブソーブ)
+- AllMapMode (全マップ周遊モード(RTA専用))
+- Amanojaku (天邪鬼)
+- Amnesia (アムネシア)
+- AntiTeleporter (アンチテレポーター)
+- AsistingAngel (アシスティングエンジェル)
+- AssassinandMerlin (<#ff1919>アサシン</color>と<#8cc2ff>マーリン</color>)
+- Autopsy (オートプシー)
+- Betrayer (ベトレイヤー)
+- BlueLovers (ブルーラバーズ)
+- Chain (鎖)
+- Clumsy (クラムシー)
+- Connecting (コネクティング)
+- CupidLovers (キューピッドラバーズ)
+- DemonicCrusher (デーモンクラッシャー)
+- DemonicSupporter (デーモンサポーター)
+- DemonicTracker (デーモントラッカー)
+- DemonicVenter (デーモンベンター)
+- DriverandBraid (ドライバー</color>と<#ff1919>ブレイド</color>)
+- Elector (イレクター)
+- Emptiness (空虚者)
+- EvilTrapper (イビルトラッパー)
+- Evilk ()
+- Faction (徒党)
+- FoolandNue (<#8b6d61>愚か者</color>と<#be7c35>鵺</color>)
+- GM (ゲームマスター)
+- GhostFloodlight (ゴーストフラッドライター)
+- GhostNoiseSender (ゴーストノイズセンダー)
+- GhostReseter (ゴーストリセッター)
+- GhostRole (GhostRoll)
+- GhostRumour (ゴーストルーモア)
+- GhostSaboteur (ゴーストサボタージュ)
+- Ghostbuttoner (ゴーストボタナー)
+- GreenLovers (グリーンラバーズ)
+- GuardianAngel (守護天使)
+- Guarding (ガーディング)
+- Guesser (ゲッサー)
+- HASFox (狐)
+- HASTroll (トロール)
+- InfoPoor (インフォプアー)
+- Jumbo (ジャンボ)
+- LastImpostor (ラストインポスター)
+- LastNeutral (ラストニュートラル)
+- Lighting (ライティング)
+- Lovers (ラバーズ)
+- MadonnaLovers (マドンナラバーズ)
+- MagicHand (マジックハンド)
+- Management (マネジメント)
+- MaxAddCount (追加回数)
+- Moon (ムーン)
+- News (ニュース)
+- NonReport (ノンレポート)
+- Notvoter (ノットヴォウター)
+- OneLove (片思い)
+- OneWolf (一匹狼)
+- Opener (オープナー)
+- Pavlov (パブロフ)
+- PlusVote (プラスポート)
+- Powerful (パワフル)
+- PurpleLovers (パープルラバーズ)
+- RedLovers (レッドラバーズ)
+- Revenger (リベンジャー)
+- SKMadmate (サイドキックマッドメイト)
+- Sealer (シーラー)
+- Securer (セキュアラー)
+- Seeing (シーイング)
+- Serial (シリアル)
+- Slacker (スラッカー)
+- SlowStarter (スロースターター)
+- Speeding (スピーディング)
+- Stack (スタック)
+- Stamina (スタミナー)
+- Sunglasses (サングラス)
+- TaskAddMode (タスク完了時にタスクを追加する)
+- TaskBattelCanSeeOtherPlayer (他のプレイヤーのタスク数を表示する)
+- TaskBattelShowAllTask (合計タスク数を表示する)
+- TaskBattle (タスクバトル)
+- TaskBattleCanVent (ベントを使える)
+- TaskBattleInfo (タスクバトル:\n全員にクルーが割り当てられ、会議を開くことはできない。\n一番最初にタスクを全て完了させたプレイヤーのみ勝利することができる。(設定有))
+- TaskBattleSet (タスクバトル設定)
+- TaskBattleShowFastestPlayer (一番速い人のタスク数を表示する)
+- TaskBattleTeamCount (チーム数)
+- TaskBattleTeamGameTaskComp (ゲーム終了条件をチームの合計タスク完了数にする)
+- TaskBattleTeamMode (チームモードを有効にする)
+- TaskBattleTeamWinTaskc (合計タスク数)
+- TaskBattleVentCooldown (ベントクールダウン)
+- TaskBattle_Time (タイム)
+- TaskPlayerB (プレイヤー)
+- TaskRTAInfo (～己の限界を超えよ～)
+- TaskSoroeru (全員のタスクを共通にする)
+- TeamPavlov (パブロフ陣営)
+- TheThreeLittlePigs (三匹の子豚)
+- Tiebreaker (タイブレーカー)
+- Transparent (トランスパレント)
+- Triplets (三つ子)
+- Twins (双子)
+- VegaandAltair (織姫</color>と<#b0c4de>彦星</color>)
+- Watching (ウォッチング)
+- Water (ウォーター)
+- WhiteLovers (ホワイトラバーズ)
+- Workhorse (ワークホース)
+- YellowLovers (イエローラバーズ)
